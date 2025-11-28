@@ -1,0 +1,1 @@
+Setting Up an Environment in Behave lab. By setting up the environment in Behave, one can control what happens before and after each feature, scenario, step, or tag. One can also control what happens before all and after all features, which is the focus of this lab.
